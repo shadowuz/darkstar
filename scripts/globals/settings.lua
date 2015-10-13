@@ -16,9 +16,9 @@
 require("scripts/globals/common");
 
 -- Enable Extension (1= yes 0= no)
-ENABLE_COP     = 0;
-ENABLE_TOAU    = 0;
-ENABLE_WOTG    = 0;
+ENABLE_COP     = 1;
+ENABLE_TOAU    = 1;
+ENABLE_WOTG    = 1;
 ENABLE_ACP     = 0;
 ENABLE_AMK     = 0;
 ENABLE_ASA     = 0;
